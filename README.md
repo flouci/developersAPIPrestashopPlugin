@@ -1,1 +1,2 @@
 # developersAPIPrestashopPlugin
+Plugin for prestashop integration
